@@ -1,0 +1,1 @@
+node configration file command : npm init -y
